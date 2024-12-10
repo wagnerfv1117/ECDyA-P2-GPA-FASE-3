@@ -1,0 +1,33 @@
+ID_Campaña;Nombre;Fecha_Inicio;Fecha_Fin;Plataforma;Presupuesto;Objetivo;Tipo_Campaña;Estado
+1;Campaña Verano 2023;1/06/2023;30/06/2023;Google Ads;$ 1.200;Aumentar ventas;Búsqueda;Finalizada
+2;Campaña Redes Sociales;10/07/2023;25/07/2023;Facebook Ads;$ 800;Generar engagement;Redes Sociales;Finalizada
+3;Campaña Lanzamiento Producto;15/08/2023;30/08/2023;Instagram Ads;$ 1.500;Promocionar nuevo producto;Redes Sociales;En Curso
+4;Campaña Regreso a Clases;1/09/2023;15/09/2023;Google Ads;$ 1.000;Aumentar tráfico;Búsqueda;Planificada
+5;Campaña Otoño 2023;1/01/2023;31/10/2023;Correo Electrónico;$ 600;Fomentar compras;Email Marketing;En Curso
+6;Campaña Black Friday;20/11/2023;26/11/2023;Google Ads;$ 2.000;Ofertas especiales;Búsqueda;Planificada
+7;Campaña Navidad 2023;1/12/2023;31/12/2023;Facebook Ads;$ 1.200;Generar ventas;Redes Sociales;Planificada
+8;Campaña Año Nuevo 2024;1/01/2024;10/01/2024;Instagram Ads;$ 800;Promocionar ofertas;Redes Sociales;Planificada
+9;Campaña San Valentín 2024;1/02/2024;14/02/2024;Google Ads;$ 1.000;Atraer parejas;Búsqueda;Planificada
+10;Campaña Primavera 2024;15/03/2024;31/03/2024;Correo Electrónico;$ 700;Promover productos;Email Marketing;Planificada
+11;Campaña Día de la Madre 2024;15/04/2024;5/05/2024;Facebook Ads;$ 1.200;Homenajear a madres;Redes Sociales;Planificada
+12;Campaña Verano 2024;1/06/2024;30/06/2024;Instagram Ads;$ 1.300;Impulsar ventas;Redes Sociales;Planificada
+13;Campaña Vuelta a Clases 2024;1/08/2024;15/08/2024;Google Ads;$ 1.100;Promocionar productos;Búsqueda;Planificada
+14;Campaña Halloween 2024;15/10/2024;31/10/2024;Facebook Ads;$ 900;Crear ambiente festivo;Redes Sociales;Planificada
+15;Campaña Black Friday 2024;20/11/2024;26/11/2024;Google Ads;$ 2.200;Grandes descuentos;Búsqueda;Planificada
+16;Campaña Navidad 2024;1/12/2024;31/12/2024;Instagram Ads;$ 1.500;Fomentar compras;Redes Sociales;Planificada
+17;Campaña Año Nuevo 2025;1/01/2025;10/01/2025;Correo Electrónico;$ 1.000;Iniciar el año con estilo;Email Marketing;Planificada
+18;Campaña San Valentín 2025;1/02/2025;14/02/2025;Google Ads;$ 1.200;Celebrar el amor;Búsqueda;Planificada
+19;Campaña Primavera 2025;15/03/2025;31/03/2025;Facebook Ads;$ 800;Promover nuevos lanzamientos;Redes Sociales;Planificada
+20;Campaña Día de la Madre 2025;15/04/2025;5/05/2025;Instagram Ads;$ 1.300;Reconocer a madres;Redes Sociales;Planificada
+21;Campaña Verano 2025;1/06/2025;30/06/2025;Google Ads;$ 1.400;Impulsar ventas;Búsqueda;Planificada
+22;Campaña Vuelta a Clases 2025;1/08/2025;15/08/2025;Facebook Ads;$ 1.200;Prepararse para clases;Redes Sociales;Planificada
+23;Campaña Halloween 2025;15/10/2025;31/10/2025;Instagram Ads;$ 1.000;Ofertas especiales;Redes Sociales;Planificada
+24;Campaña Black Friday 2025;20/11/2025;26/11/2025;Correo Electrónico;$ 2.500;Grandes descuentos;Email Marketing;Planificada
+25;Campaña Verano 2023;1/06/2022;30/06/2022;Google Ads;$ 1.200;Aumentar ventas;Búsqueda;Finalizada
+26;Campaña Redes Sociales;10/07/2022;25/07/2022;Facebook Ads;$ 800;Generar engagement;Redes Sociales;Finalizada
+27;Campaña Lanzamiento Producto;15/08/2022;30/08/2022;Instagram Ads;$ 1.500;Promocionar nuevo producto;Redes Sociales;Finalizada
+28;Campaña Primavera 2024;15/03/2022;31/03/2022;Correo Electrónico;$ 700;Promover productos;Email Marketing;Finalizada
+29;Campaña Día de la Madre 2024;15/04/2022;5/05/2022;Facebook Ads;$ 1.200;Homenajear a madres;Redes Sociales;Finalizada
+30;Campaña Día de la Madre 2025;15/04/2022;5/05/2022;Instagram Ads;$ 1.300;Reconocer a madres;Redes Sociales;Finalizada
+31;Campaña Invierno 2026;1/12/2022;31/12/2022;Instagram Ads;$ 1.600;Promocionar productos;Redes Sociales;Finalizada
+32;Campaña Fin de Año 2026;20/12/2022;31/12/2022;Correo Electrónico;$ 1.200;Cierre del año con estilo;Email Marketing;Finalizada
